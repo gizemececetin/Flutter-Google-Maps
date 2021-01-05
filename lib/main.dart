@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             primaryColor: Colors.deepPurple,
           ),
           debugShowCheckedModeBanner: false,
-          title: 'Maps',
+          title: 'Maps Prod',
           home: Home(),
       ),
     );
